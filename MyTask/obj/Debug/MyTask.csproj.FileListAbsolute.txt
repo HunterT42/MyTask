@@ -1,0 +1,12 @@
+C:\Users\B.ad\Desktop\MyTask\MyTask\bin\Debug\MyTask.exe.config
+C:\Users\B.ad\Desktop\MyTask\MyTask\bin\Debug\MyTask.exe
+C:\Users\B.ad\Desktop\MyTask\MyTask\bin\Debug\MyTask.pdb
+C:\Users\B.ad\Desktop\MyTask\MyTask\obj\Debug\MyTask.csproj.AssemblyReference.cache
+C:\Users\B.ad\Desktop\MyTask\MyTask\obj\Debug\MyTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\B.ad\Desktop\MyTask\MyTask\obj\Debug\MyTask.Form1.resources
+C:\Users\B.ad\Desktop\MyTask\MyTask\obj\Debug\MyTask.Properties.Resources.resources
+C:\Users\B.ad\Desktop\MyTask\MyTask\obj\Debug\MyTask.csproj.GenerateResource.cache
+C:\Users\B.ad\Desktop\MyTask\MyTask\obj\Debug\MyTask.csproj.CoreCompileInputs.cache
+C:\Users\B.ad\Desktop\MyTask\MyTask\obj\Debug\MyTask.exe
+C:\Users\B.ad\Desktop\MyTask\MyTask\obj\Debug\MyTask.pdb
+C:\Users\B.ad\Desktop\MyTask\MyTask\obj\Debug\MyTask.Form2.resources
